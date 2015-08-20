@@ -1,0 +1,12 @@
+$irb
+irb 0.6.1(99/09/16)
+irb(main):001:0> def hello
+irb(main):002:1> out = "Hello World"
+irb(main):003:1> puts out
+irb(main):004:1> end
+nil
+irb(main):005:0> hello
+Hello World
+nil
+irb(main):006:0>
+
